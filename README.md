@@ -1,2 +1,2 @@
-# ptr_containers
-Containers for pointers.
+# thread_pool
+Easy-to-use ThreadPool for modern C++
